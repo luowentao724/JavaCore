@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+*/target
+*.iml
+/.idea
+*.class
+target/
+.project
+.settings/
+.classpath
+ace-modules/ace-tool/src/main/resources/application-dev.yml
